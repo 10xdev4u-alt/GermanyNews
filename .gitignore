@@ -1,0 +1,24 @@
+# Germany News WhatsApp Bot — Git ignore file
+
+# Environment variables (CONTAINS API KEYS — never commit!)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

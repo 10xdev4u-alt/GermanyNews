@@ -1,0 +1,11 @@
+# Germany News WhatsApp Bot — Python Dependencies
+# All packages are available for free and work on GitHub Actions runners.
+
+# Google Gemini API SDK
+google-genai>=1.0.0
+
+# HTTP requests library
+requests>=2.31.0
+
+# For loading .env files locally (optional, not needed in GitHub Actions)
+python-dotenv>=1.0.0
