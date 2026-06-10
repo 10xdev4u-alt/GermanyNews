@@ -65,7 +65,7 @@ You'll need **3 free API keys** (takes ~5 minutes):
 ### 2. Clone the Repo
 
 ```bash
-git clone https://github.com/<your-username>/GermanyNews.git
+git clone https://github.com/10xdev4u-alt/GermanyNews.git
 cd GermanyNews
 ```
 
